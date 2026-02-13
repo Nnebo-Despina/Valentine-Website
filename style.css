@@ -57,3 +57,8 @@ div{
 #nBtn:hover, #yBtn:hover{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+@media (min-width: 375px) and (max-width: 767px){
+    p{
+        font-size: 20px;
+    }
+}
